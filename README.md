@@ -22,4 +22,4 @@ Therefore, I have decided not to include it in the final version yet and impleme
 when I will make it optimal in processing time =)
 
 Alternatively, can implement multithreading at the time of the data loop analysis (line 50 in Programmerstasken.java), 
-but this also needs to be further tested for speed. Therefore, without a guarantee of performance, I have not yet included in the version 0.1
+but this also needs to be further tested for speed. Therefore, without a guarantee of performance, I have not  included it in the version 0.1 yet.
